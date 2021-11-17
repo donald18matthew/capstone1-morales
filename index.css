@@ -5,7 +5,7 @@ nav {
 	font-size: 1.2rem;
 }
 
-body {
+html {
 	background-size: cover;
 	background-image: url(./laptop2.PNG);
 	background-repeat: no-repeat;
@@ -13,7 +13,7 @@ body {
 	font-family: "Open Sans", sans-serif;
 }
 
-.container-body {
+body {
 	background-color: rgba(51, 50, 49, 0.75);
 }
 
