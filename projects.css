@@ -1,6 +1,3 @@
-/*#fix-nav {
-	position:fixed;
-}*/
 #fix-nav {
 	position: fixed;
 	float: right;
@@ -13,7 +10,7 @@ nav {
 
 html {
 	background-size: cover;
-	background-image: url(./laptop2.PNG);
+	background-image: url(https://wallpaperaccess.com/full/1740357.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	font-family: "Open Sans", sans-serif;
@@ -27,18 +24,18 @@ body {
 
 
 h1 {
-	font-size: 3rem;
+	font-size: 4rem;
 }
 
 h2 {
 	font-size: 2rem;
 }
 
-a:hover {
+nav a:hover {
 	border-bottom: 2px solid red;
 }
 
-a {
+nav a {
 	margin-right: 5rem;
 }
 
@@ -55,6 +52,10 @@ background-color: rgba(51, 50, 49, 0.75);
 }
 
 
-/*#expertise img {
-	height: 250px;
-}*/
+#project img {
+	padding-bottom: 5rem;
+}
+
+.carousel-item a:hover {
+	background-color: red;
+}
