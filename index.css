@@ -1,0 +1,40 @@
+
+
+
+nav {
+	font-size: 1.2rem;
+}
+
+body {
+	background-size: cover;
+	background-image: url(./laptop2.PNG);
+	background-repeat: no-repeat;
+	background-position: center;
+	font-family: "Open Sans", sans-serif;
+}
+
+.container-body {
+	background-color: rgba(51, 50, 49, 0.75);
+}
+
+
+h1 {
+	font-size: 4rem;
+}
+
+h2 {
+	font-size: 2rem;
+}
+
+a:hover {
+	border-bottom: 2px solid red;
+}
+
+a {
+	margin-right: 5rem;
+}
+
+
+.foot {
+background-color: rgba(51, 50, 49, 0.75);
+}
