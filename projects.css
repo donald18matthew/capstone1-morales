@@ -13,10 +13,11 @@ html {
 	background-image: url(https://wallpaperaccess.com/full/1740357.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	font-family: "Open Sans", sans-serif;
+	
 }
 
 body {
+	font-family: 'Montserrat', sans-serif;
 	margin-top: 3rem;
 	padding-top: 2rem;
 	background-color: rgba(51, 50, 49, 0.75);
